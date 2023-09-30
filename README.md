@@ -1,4 +1,4 @@
-## Olá, meu nome é Gabriel Faria. É um prazer conhecê-lo! 
+## Olá, meu nome é Gabriel Faria. É um prazer enorme vê-lo por aqui!😁
 
  <div>
    <a href="https://github.com/ggabrielfaria">
